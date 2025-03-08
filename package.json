@@ -1,0 +1,13 @@
+{
+  "name": "mon-bot-discord",
+  "version": "1.0.0",
+  "description": "Un bot Discord hébergé sur Koyeb",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3"
+  }
+}
